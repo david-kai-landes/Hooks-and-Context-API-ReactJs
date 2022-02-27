@@ -13,4 +13,4 @@ export const IncomeExpenses = () => {
       </div>
     </div>
   );
-}
+};
